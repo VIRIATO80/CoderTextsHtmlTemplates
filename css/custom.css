@@ -45,6 +45,8 @@ html {
  }
  
  body {
+	min-height: 75rem;
+	padding-top: 4.5rem;
     min-height: 75rem;
     padding-top: 4.5rem;
     word-wrap: break-word;

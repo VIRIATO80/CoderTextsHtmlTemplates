@@ -84,12 +84,14 @@ $(".toggle-password").click(function() {
 
 //Calendario de formulario
 
+
+/*
 $('#fecha').datepicker({
     format: "dd/mm/yyyy",
     language: "es",
     orientation: "bottom auto"
 });
-
+*/
 
 //Ejecución de las funciones
 clBackToTop();
